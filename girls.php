@@ -2,11 +2,11 @@
 
 /*
 	Plugin Name: Girls-Plugin
-	Plugin URI: http://time-ismoney.com/
+	Plugin URI: http://vocter.com/
 	Description: Girls-Plugin for WordPress
 	Version: 1.0.0
-	Author: Time is-Money
-	Author URI: http://time-ismoney.com/
+	Author: Vocter
+	Author URI: http://vocter.com/
 */
 
 require_once plugin_dir_path( __FILE__ ) . 'incl/custom-post-type.php'; 
